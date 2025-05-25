@@ -2,6 +2,7 @@ import os
 from pathlib import Path
 
 list_of_files = [
+    ".gitignore",
     ".github/workflows/.gitkeep",
     "src/__init__.py",
     "src/components/__init__.py",
